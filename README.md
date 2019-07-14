@@ -13,4 +13,4 @@ No início do jogo, é entregue 2 cartas para cada jogador com outra virada na m
 
 <h4>O que foi usado?</h4>
 
-É fundamental que se tenha o JDK intalado, pois as funcionalidade e classes prontas foram dependem de alguns pacotes vinculados ao JDK.
+É fundamental que se tenha o JDK intalado, pois as funcionalidade e classes prontas dependem de alguns pacotes vinculados ao JDK.
