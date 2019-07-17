@@ -4,7 +4,7 @@ Projeto desenvolvido para a matérida de estrutura de dados I.
 
 <h4>Como executar?</h4>
 
-O projeto foi todo desenvolvido em Java, portanto é necessário que o Java 7+ esteja devidamente instálado na maquina. Para executá-lo é fundamental uma IDE de sua preferencias, basta abrir o arquivo como um pacote Java e executar por meio da Classe Jogo.java.
+O projeto foi todo desenvolvido em Java, portanto é necessário que o Java 7+ esteja devidamente instalado na maquina. Para executá-lo é fundamental uma IDE de sua preferencias, basta abrir o arquivo como um pacote Java e executar por meio da Classe Jogo.java.
 
 <h4>Como funciona?</h4>
 
